@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/raynardbrown/repos/KanyeAndWeatherExercise/KanyeAndWeatherExercise/KanyeAndWeatherExercise.csproj",
+      "projectUniqueName": "/Users/raynardbrown/Desktop/repos2/KanyeAndWeatherExercise/KanyeAndWeatherExercise/KanyeAndWeatherExercise.csproj",
       "projectName": "KanyeAndWeatherExercise",
-      "projectPath": "/Users/raynardbrown/repos/KanyeAndWeatherExercise/KanyeAndWeatherExercise/KanyeAndWeatherExercise.csproj",
+      "projectPath": "/Users/raynardbrown/Desktop/repos2/KanyeAndWeatherExercise/KanyeAndWeatherExercise/KanyeAndWeatherExercise.csproj",
       "packagesPath": "/Users/raynardbrown/.nuget/packages/",
-      "outputPath": "/Users/raynardbrown/repos/KanyeAndWeatherExercise/KanyeAndWeatherExercise/obj/",
+      "outputPath": "/Users/raynardbrown/Desktop/repos2/KanyeAndWeatherExercise/KanyeAndWeatherExercise/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/raynardbrown/.nuget/NuGet/NuGet.Config"
