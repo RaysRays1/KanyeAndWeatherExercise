@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6CB0Oe7RH/POoq/rxH0i8brXKeliUNOT3g4FuxUCVEBpmjQcvJMPj+qxb3WT5/UnELQjjjVuzWh/U0z6GTUCxA==",
+  "success": true,
+  "projectFilePath": "/Users/raynardbrown/repos/KanyeAndWeatherExercise/KanyeAndWeatherExercise/KanyeAndWeatherExercise.csproj",
+  "expectedPackageFiles": [
+    "/Users/raynardbrown/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
